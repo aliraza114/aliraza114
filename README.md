@@ -1,12 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza114&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza114" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliraza114" alt="aliraza114" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ali82874" target="blank"><img src="https://img.shields.io/twitter/follow/ali82874?logo=twitter&style=for-the-badge" alt="ali82874" /></a> </p>
 
 - 🔭 I’m currently working on [Robograding](https://robograding.com/)
 
@@ -19,7 +14,7 @@
 <a href="https://dev.to/aliraza114" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aliraza114" height="30" width="40" /></a>
 <a href="https://twitter.com/ali82874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali82874" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/janigaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janigaga" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:7906530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:7906530" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7906530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7906530" height="30" width="40" /></a>
 <a href="https://fb.com/alirazaakra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alirazaakra" height="30" width="40" /></a>
 <a href="https://instagram.com/janigaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janigaga" height="30" width="40" /></a>
 <a href="https://medium.com/@aliraza35690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliraza35690" height="30" width="40" /></a>
